@@ -1,0 +1,23 @@
+Valores Nulos por Columna:
+combustible                0
+estado                     0
+modelo                     0
+fecha_registro             0
+anio_registro              0
+clasificacion              0
+clase                      0
+servicio                   0
+marca                      0
+linea                      0
+carroceria                 0
+modalidad              19882
+organismo_transito         0
+municipio                  0
+departamento               0
+capacidad_pasajeros    55234
+peso                    2429
+potencia                 997
+ejes                    2072
+cantidad                   0
+cilindraje              3491
+capacidad_carga        50325

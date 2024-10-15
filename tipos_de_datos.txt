@@ -1,0 +1,23 @@
+Tipos de Datos por Columna:
+combustible            object
+estado                 object
+modelo                 object
+fecha_registro         object
+anio_registro          object
+clasificacion          object
+clase                  object
+servicio               object
+marca                  object
+linea                  object
+carroceria             object
+modalidad              object
+organismo_transito     object
+municipio              object
+departamento           object
+capacidad_pasajeros    object
+peso                   object
+potencia               object
+ejes                   object
+cantidad               object
+cilindraje             object
+capacidad_carga        object
